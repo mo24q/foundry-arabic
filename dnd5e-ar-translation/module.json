@@ -1,6 +1,6 @@
 {
   "id": "dnd5e-ar-translation",
-  "title": "تعريب dnd",
+  "title": "تعريب دي ان دي",
   "description": "تعريب شخصي لنظام دي اند دي النسخة الخامسة",
   "version": "1.0.0",
   "authors": [
@@ -9,7 +9,7 @@
     }
   ],
   "compatibility": {
-    "minimum": "11",
+    "minimum": "13",
     "verified": "14"
   },
   "languages": [

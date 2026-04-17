@@ -1,0 +1,30 @@
+{
+  "id": "dnd5e-ar-translation",
+  "title": "تعريب دي ان دي",
+  "description": "تعريب شخصي لنظام دي اند دي النسخة الخامسة",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "مشرّف"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "languages": [
+    {
+      "lang": "ar",
+      "name": "Arabic",
+      "path": "ar.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ]
+  }
+}

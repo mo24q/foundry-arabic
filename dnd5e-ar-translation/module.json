@@ -1,19 +1,23 @@
 {
   "id": "dnd5e-ar-translation",
   "title": "تعريب دي ان دي",
-  "description": "تعريب شخصي لنظام دي اند دي النسخة الخامسة",
-  "version": "1.0.0",
+  "description": "تعريب كامل لنظام D&D 5e باللغة العربية لفاوندي.",
   "authors": [
     {
       "name": "مشرّف"
     }
   ],
-  "compatibility": {
-    "minimum": "13",
-    "verified": "14"
-  },
+  "url": "https://github.com/mo24q/foundry-arabic",
+  "bugs": "https://github.com/mo24q/foundry-arabic/issues",
+  "readme": "https://github.com/mo24q/foundry-arabic/blob/main/README.md",
   "manifest": "https://github.com/mo24q/foundry-arabic/releases/latest/download/module.json",
-  "download": "https://github.com/mo24q/foundry-arabic/releases/download/1.0.0/dnd5e-ar-translation",
+  "download": "https://github.com/mo24q/foundry-arabic/releases/download/1.0.0/module.zip",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "14"
+  },
   "languages": [
     {
       "lang": "ar",

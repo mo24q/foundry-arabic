@@ -1,20 +1,27 @@
 {
-  "id": "dnd5e-ar-translation",
+  "id": "foundry-arabic",
   "title": "تعريب دي ان دي",
-  "description": "تعريب كامل لنظام D&D 5e باللغة العربية لفاوندي.",
+  "description": "تعريب كامل لنظام D&D 5e باللغة العربية.",
+  "version": "1.0.0",
   "authors": [
     {
-      "name": "مشرّف"
+      "name": "مشرّف",
+      "url": "https://github.com/mo24q"
     }
   ],
   "url": "https://github.com/mo24q/foundry-arabic",
   "bugs": "https://github.com/mo24q/foundry-arabic/issues",
-  "manifest": "https://raw.githubusercontent.com/mo24q/foundry-arabic/main/module.json",
-  "download": "https://github.com/mo24q/foundry-arabic/releases/download/1.0.0/dnd5e-ar-translation.zip",
-  "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "13"
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ]
   },
   "languages": [
     {
@@ -23,12 +30,6 @@
       "path": "ar.json"
     }
   ],
-  "relationships": {
-    "systems": [
-      {
-        "id": "dnd5e",
-        "type": "system"
-      }
-    ]
-  }
+  "manifest": "https://raw.githubusercontent.com/mo24q/foundry-arabic/main/module.json",
+  "download": "https://github.com/mo24q/foundry-arabic/archive/refs/heads/main.zip"
 }

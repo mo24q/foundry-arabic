@@ -10,7 +10,7 @@
   "url": "https://github.com/mo24q/foundry-arabic",
   "bugs": "https://github.com/mo24q/foundry-arabic/issues",
   "manifest": "https://raw.githubusercontent.com/mo24q/foundry-arabic/main/module.json",
-  "download": "https://github.com/mo24q/foundry-arabic/releases/download/1.0.0/module.zip",
+  "download": "https://github.com/mo24q/foundry-arabic/releases/download/1.0.0/dnd5e-ar-translation.zip",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",

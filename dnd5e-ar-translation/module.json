@@ -12,6 +12,8 @@
     "minimum": "13",
     "verified": "14"
   },
+  "manifest": "https://github.com/mo24q/foundry-arabic/releases/latest/download/module.json",
+  "download": "https://github.com/mo24q/foundry-arabic/releases/download/1.0.0/dnd5e-ar-translation.zip",
   "languages": [
     {
       "lang": "ar",
